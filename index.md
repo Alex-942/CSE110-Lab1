@@ -30,7 +30,7 @@ My Accomplishments:
 - [X] Pass my classes with honors
 - [] Graduate UCSD 
 
-![Here is a image I like]([src](https://octodex.github.com/images/yaktocat.png))
+![Here is an image I like](https://octodex.github.com/images/yaktocat.png)
 
 To list the directories and files in the current directory run:
 ```
