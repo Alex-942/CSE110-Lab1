@@ -2,3 +2,5 @@
 Lab1 assignment for CSE100
 
 Alejandro Marquez's User Page
+
+My favortie programming language is Java
