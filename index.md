@@ -41,7 +41,7 @@ Come checkout [UCSD](https://ucsd.edu/).
 
 Here is my [GitHub](https://github.com/Alex-942/CSE110-Lab1/blob/gh-pages/index.md#welcome-to-github-pages).
 
-[Theme Selection for Website located in](../CSE110-Lab1/_config.yml)
+[Theme Selection for Website located in] CSE110-Lab1/_config.yml
 
 ## I hope You Enjoyed Your Stay :)
 
