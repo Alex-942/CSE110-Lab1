@@ -4,27 +4,46 @@ You can use the [editor on GitHub](https://github.com/Alex-942/CSE110-Lab1/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Alejandro Marquez's Webpage!!!
+# Welcome to my site :)
 
-```markdown
-Syntax highlighted code block
+I am currently on my *third year* at **University of California - San Diego**
 
-# Header 1
-## Header 2
-### Header 3
+At UCSD I am studying ~~Coginitive~~ Computer Science
 
-- Bulleted
-- List
+Within UCSD **I am enrolled in _Warren College_.**
 
-1. Numbered
-2. List
+***I will be Graduating in June 2022***
 
-**Bold** and _Italic_ and `Code` text
+In the Words of Steve Jobs:
+> Good engineers copy, Great engineers steal.
 
-[Link](url) and ![Image](src)
+My Hobbies Include:
+- Coding
+- Playing Video Games
+- Watching Netflix 
+- Hanging out with Friends **but not recently because of COVID :(**
+
+My Accomplishments:
+- [X] Switch to a CSE Major
+- [X] Pass my classes with honors
+- [] Graduate UCSD 
+
+![Here is a image I like]([src](https://octodex.github.com/images/yaktocat.png))
+
+To list the directories and files in the current directory run:
 ```
+ls
+```
+
+Come checkout [UCSD](https://ucsd.edu/).
+
+Here is my [GitHub](https://github.com/Alex-942/CSE110-Lab1/blob/gh-pages/index.md#welcome-to-github-pages).
+
+[Theme Selection for Website located in](../CSE110-Lab1/_config.yml)
+
+## I hope You Enjoyed Your Stay :)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
